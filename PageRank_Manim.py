@@ -1,4 +1,4 @@
-from manim import *
+from manimlib.imports import *
 
 class daa1(Scene):
 	def construct(self):
