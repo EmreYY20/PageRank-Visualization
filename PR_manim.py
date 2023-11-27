@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 from manim import *
 import numpy as np
-=======
-from manimlib.imports import *
->>>>>>> e5cdb407301f93ee7eb495f552d8e26177cc5a37
 
 class daa1(Scene):
 	def construct(self):
