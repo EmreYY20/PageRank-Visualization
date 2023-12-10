@@ -1,3 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/MOUTYAX/OneDrive - AbbVie Inc (O365)/Documents/GitHub/Manim-Algo-Viz/media/videos/PageRank_Manim/480p15/partial_movie_files/daa8/1185818338_3284686893_223132457.mp4'
-file 'file:C:/Users/MOUTYAX/OneDrive - AbbVie Inc (O365)/Documents/GitHub/Manim-Algo-Viz/media/videos/PageRank_Manim/480p15/partial_movie_files/daa8/624642324_3257661881_139382762.mp4'
