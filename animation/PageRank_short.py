@@ -1,12 +1,11 @@
-from manim import *
-import numpy as np
+from manimlib.imports import *
 
 class daa1(Scene):
 	def construct(self):
-		label1 = Text("An Overview of PageRank:")
-		label2 = Text("its need, its working, and an example")
+		label1 = TextMobject("An Overview of PageRank:", fill_color=WHITE, tex_to_color_map={"PageRank:": RED})
+		label2 = TextMobject("its need, its working, and an example")
 
-		label3 = Text("Muazzam Ali Kazmi")
+		label3 = TextMobject("Muazzam Ali Kazmi")
 
 		label1.scale(1.5)
 		label1.shift(np.array([0,1,0]))
@@ -697,7 +696,7 @@ class daa7(Scene):
 		
 class daa8(Scene):
 	def construct(self):
-		questions = Text("Any questions?")		
+		questions = TextMobject("Any questions?")		
 
 		self.play(Write(questions))	
 		self.wait(10)	
