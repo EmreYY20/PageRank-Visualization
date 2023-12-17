@@ -154,4 +154,5 @@ cython_debug/
 
 # media dir
 /media
+NEU/media
 /jupyter_notebook
