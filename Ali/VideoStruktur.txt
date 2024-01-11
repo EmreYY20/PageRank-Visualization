@@ -1,0 +1,65 @@
+manimce -pql jesus_animations_Original.py BruteForceMethod
+
+
+
+-Periodicity.mp4
+Original
+9:15 - 12:12 = 2 Min 57 Sek
+
+Duplikat
+2 Min 22 Sek
+
+- PeriodicityUsersMovement.mp4
+
+- IntroduceBigTheorem 1-4 
+Original 
+12:14 - 13:06 = 52 Sek
+
+Duplikat
+2 Min
+
+- IntroduceBigTheoremText
+Original
+13:07 - 13:32 = 25 Sek
+
+Duplikat
+12 Sek
+
+
+- BruteForceMethod.mp4
+Original
+13:34 - 14:10 = 36 Sek
+
+Duplikat
+30 Sek
+
+
+- SystemOfEquationsMethod.mp4
+Original
+14:11 - 15 = 49 Sek
+
+Duplikat 
+21 Sek
+
+
+-EigenValueMethodFixed2.mp4
+Original
+15:05 - 16:10 = 1 Min 5 Sek
+
+Duplikat
+34 Sek
+
+
+====== 4 Minuten, 17 Sekunden Duplikat
+
+Reihenfolge:
+- Periodicity.mp4
+- PeriodicityUsersMovement.mp4
+- IntroduceBigTheorem1
+- IntroduceBigTheorem2
+- IntroduceBigTheorem3
+- IntroduceBigTheorem4
+- IntroduceBigTheoremText
+- BruteForceMethod.mp4
+- SystemOfEquationsMethod.mp4
+- EigenValueMethodFixed2.mp4
