@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-Visualizing PageRank with [Manim](https://github.com/ManimCommunity/manim) – A Python animation engine for explanatory math videos.
+Visualizing PageRank with [Manim](https://github.com/ManimCommunity/manim) – A Python animation engine for explanatory videos.
 
 ![PageRank Visualization](thumbnail.png)
 
@@ -11,8 +11,6 @@ Visualizing PageRank with [Manim](https://github.com/ManimCommunity/manim) – A
 - [About](#about)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Examples](#examples)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## About
@@ -26,12 +24,24 @@ Follow these instructions to set up and run the PageRank visualization:
 ### Prerequisites
 
 - Python 3.7 or higher
-- Manim (ManimCE or ManimGL)
-- Additional Python libraries (NumPy, Matplotlib)
 
 ### Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/pagerank-visualization.git
+   git clone https://github.com/EmreYY20/PageRank-Visualization.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd PageRank-Visualization
+
+3. Install the required Python libraries:
+   ```bash
+   pip install -r requirements.txt
+
+### Usage
+To generate the animation sequences, execute the notebook cells sequentially.
+
+### License
+This project is licensed under the MIT License - see the [License](LICENSE) file for details. 
