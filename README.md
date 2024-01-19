@@ -1,6 +1,7 @@
 # PageRank Visualization with Manim
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Made with Jupyter Notebook](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
 Visualizing PageRank with [Manim](https://github.com/ManimCommunity/manim) – A Python animation engine for explanatory videos.
 
