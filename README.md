@@ -4,7 +4,7 @@
 
 Visualizing PageRank with [Manim](https://github.com/ManimCommunity/manim) – A Python animation engine for explanatory videos.
 
-![PageRank Visualization](thumbnail.png)
+https://github.com/EmreYY20/PageRank-Visualization/assets/120115560/a648813d-d777-44c9-9bee-95f3f7948653
 
 ## Table of Contents
 
