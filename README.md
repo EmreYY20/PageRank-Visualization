@@ -16,7 +16,7 @@ https://github.com/EmreYY20/PageRank-Visualization/assets/120115560/a648813d-d77
 
 ## About
 
-This project demonstrates the visualization of PageRank, an algorithm used by Google Search to rank web pages in their search engine results. Using Manim, we create educational animations to explain the PageRank algorithm step by step.
+This project demonstrates the visualization of PageRank, an algorithm used by Google Search to rank web pages in their search engine results. Using Manim, we created an educational animation to explain the PageRank algorithm step by step.
 
 ## Getting Started
 
